@@ -49,7 +49,7 @@ const Landing = () => {
                         3000,
                     ]}
                         speed={50}
-                        className="uppercase font-extrabold text-5xl text-red-700 sm:text-xl md:text-2xl"
+                        className="uppercase font-extrabold md:text-5xl text-red-700 text-2xl"
                         wrapper="span"
                         repeat={Infinity}
                     />
