@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "JavaScript"
+    },
+    {
+        "id": 2,
+        "name": "NodeJS"
+    },
+    {
+        "id": 3,
+        "name": "HTML"
+    },
+    {
+        "id": 4,
+        "name": "ReactJS"
+    },
+    {
+        "id": 5,
+        "name": "Tailwind"
+    },
+    {
+        "id": 6,
+        "name": "PhotoShop"
+    },
+    {
+        "id": 7,
+        "name": "Adobe Illustrator"
+    },
+    {
+        "id": 8,
+        "name": "Figma"
+    },
+    {
+        "id": 9,
+        "name": "Angular"
+    }
+]

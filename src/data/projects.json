@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Simple Calculator",
+        "code": "https://github.com/Bammytoye/calculator",
+        "sample": "https://zekecalculator.netlify.app/"
+    },
+    {
+        "id": 2,
+        "name": "Zeke ToDo List",
+        "code": "https://github.com/Bammytoye/todolist",
+        "sample": "https://zeketodolist001.netlify.app/"
+    },
+    {
+        "id": 3,
+        "name": "Bike Landing Page",
+        "code": "https://github.com/Bammytoye/Bike1",
+        "sample": "https://bikesite1-app.netlify.app/"
+    },
+    {
+        "id": 4,
+        "name": "Zeke Tic Tac Toe",
+        "code": "https://github.com/Bammytoye/tic",
+        "sample": "https://zeketictac001.netlify.app/"
+    },
+    {
+        "id": 5,
+        "name": "Scientific Calculator",
+        "code": "https://github.com/Bammytoye/Scientific-Calculator-",
+        "sample": "https://scientificcalculator001.netlify.app/"
+    },
+    {
+        "id": 6,
+        "name": "Student Grade Calculator",
+        "code": "https://github.com/Bammytoye/Student-Grade-",
+        "sample": "https://studentgrae001.netlify.app/"
+    },
+    {
+        "id": 7,
+        "name": "Country App",
+        "code": "https://github.com/Bammytoye/CountryApp.git",
+        "sample": "https://country-app-pi-ten.vercel.app/"
+    },
+    {
+        "id": 8,
+        "name": "Zeke Portfolio",
+        "code": "https://github.com/Bammytoye/Portfolio",
+        "sample": "https://zekeportfolio-app.netlify.app/"
+    },
+    {
+        "id": 9,
+        "name": "Background Changer",
+        "code": "https://github.com/Bammytoye/Background-Color-Change-Randomly",
+        "sample": "https://backgroundchanger001.netlify.app/" 
+    },
+    {
+        "id": 10,
+        "name": "Login Page (Next)",
+        "code": "https://github.com/Bammytoye/Background-Color-Change-Randomly",
+        "sample": "https://github.com/Bammytoye/LoginPage-Nextjs" 
+    },
+    {
+        "id": 11,
+        "name": "SignUp Page",
+        "code": "https://github.com/Bammytoye/React-SignUp",
+        "sample": "https://reactsignup001.netlify.app/" 
+    },
+    {
+        "id": 12,
+        "name": "Login Page",
+        "code": "https://github.com/Bammytoye/React-Login-Page",
+        "sample": "https://reactloginpage001.netlify.app/" 
+    },
+    {
+        "id": 13,
+        "name": "Zeke ChatGpt 3",
+        "code": "https://github.com/Bammytoye/ZekeChatGpt3",
+        "sample": "https://zeke-chat-gpt3.vercel.app/" 
+    },
+    {
+        "id": 13,
+        "name": "Zeke Food Store",
+        "code": "https://github.com/Bammytoye/ZekeFoodStore",
+        "sample": "https://zeke-food-store-sce5.vercel.app/" 
+    },
+    {
+        "id": 14,
+        "name": "Zeke Travel",
+        "code": "https://github.com/Bammytoye/ZekeTravel.git",
+        "sample": "https://zeke-travel.vercel.app/" 
+    }
+
+
+
+]
