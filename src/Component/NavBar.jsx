@@ -41,14 +41,14 @@ const Navbar = () => {
 
             {/* Navigation Menu */}
             <div
-                className={`fixed w-full bg-gray-800 flex flex-col justify-center items-center gap-y-6 text-lg z-40 transition-transform duration-300 md:hidden ${nav ? "translate-x-0" : "-translate-x-full"
+                className={`fixed w-full bg-gray-800 text-xl md:hidden ${nav ? "translate-x-0" : "-translate-x-full"
                     } lg:static lg:translate-x-0 lg:bg-transparent lg:flex lg:flex-row lg:items-center lg:w-auto lg:gap-x-8`}
             >
                 <ul className="flex flex-col md:flex-row md:gap-x-8">
                     <li>
                         <a
                             href="#home"
-                            className="hover:text-blue-400"
+                            className="relative hover:text-blue-400 after:content-[''] after:block after:w-0 after:h-[2px] after:bg-blue-400 after:transition-all after:duration-300 hover:after:w-full"
                             onClick={changeNav}
                         >
                             Home
@@ -57,7 +57,7 @@ const Navbar = () => {
                     <li>
                         <a
                             href="#about"
-                            className="hover:text-blue-400"
+                            className="relative hover:text-blue-400 after:content-[''] after:block after:w-0 after:h-[2px] after:bg-blue-400 after:transition-all after:duration-300 hover:after:w-full"
                             onClick={changeNav}
                         >
                             About
@@ -66,7 +66,7 @@ const Navbar = () => {
                     <li>
                         <a
                             href="#skills"
-                            className="hover:text-blue-400"
+                            className="relative hover:text-blue-400 after:content-[''] after:block after:w-0 after:h-[2px] after:bg-blue-400 after:transition-all after:duration-300 hover:after:w-full"
                             onClick={changeNav}
                         >
                             Skills
@@ -75,7 +75,7 @@ const Navbar = () => {
                     <li>
                         <a
                             href="#projects"
-                            className="hover:text-blue-400"
+                            className="relative hover:text-blue-400 after:content-[''] after:block after:w-0 after:h-[2px] after:bg-blue-400 after:transition-all after:duration-300 hover:after:w-full"
                             onClick={changeNav}
                         >
                             Projects
@@ -84,7 +84,7 @@ const Navbar = () => {
                     <li>
                         <a
                             href="#contact"
-                            className="hover:text-blue-400"
+                            className="relative hover:text-blue-400 after:content-[''] after:block after:w-0 after:h-[2px] after:bg-blue-400 after:transition-all after:duration-300 hover:after:w-full"
                             onClick={changeNav}
                         >
                             Contact

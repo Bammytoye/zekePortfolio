@@ -34,5 +34,25 @@
     {
         "id": 9,
         "name": "Angular"
+    },
+    {
+        "id": 10,
+        "name": "Nextjs"
+    },
+    {
+        "id": 11,
+        "name": "Nextjs"
+    },
+    {
+        "id": 12,
+        "name": "Laravel"
+    },
+    {
+        "id": 13,
+        "name": "MongoDB"
+    },
+    {
+        "id": 14,
+        "name": "MySql"
     }
 ]
